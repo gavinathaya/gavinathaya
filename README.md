@@ -33,8 +33,3 @@ A neural network for classifying galaxy morphologies—uniting deep learning and
 - Building my foundation in computational astrophysics and exploring new ways to apply AI to space science.
 
 ---
-
-## 📫 Let’s Connect!
-
-- [Your LinkedIn or Twitter Here]
-- [Personal Website or Blog Link]
