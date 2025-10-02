@@ -1,35 +1,44 @@
-# Hi, I'm Gavin Athaya 👋
+# Hey there! I'm Gavin 👋
 
-🚀 **Physics Student** | 💻 **Python & Fortran Enthusiast**  
-🌌 Aspiring **Computational Astrophysicist** with a passion for unraveling the mysteries of the universe through code.
+![Python](https://img.shields.io/badge/Python-013243?style=flat&logo=python) ![FORTRAN](https://img.shields.io/badge/FORTRAN-%237e4297?style=flat&logo=fortran) ![Octave](https://img.shields.io/badge/Octave-white?style=flat&logo=octave) ![git](https://img.shields.io/badge/git-%23262626?style=flat&logo=git&logoColor=orange
+) ![zsh](https://img.shields.io/badge/zsh-%23262626?style=flat&logo=zsh&logoColor=%237a7a7a)
+
+🚀 **Physics Student** | 💻 **Python, Fortran, MATLAB**  
+🌌 Future **Computational Astrophysicist**, studying the universe through modeling and code.
 
 ---
 
 ## 🪐 About Me
 
-- 📚 Currently pursuing my studies in physics, with a focus on astrophysics and computational methods.
-- 🧑‍💻 Skilled in **Python** and **Fortran**, leveraging both classic and cutting-edge tools to simulate and analyze cosmic phenomena.
-- 🌟 I love blending serious science with a sense of fun—because exploring the universe should be as exciting as it is rigorous!
+- 📚 Studying physics. Specializing in astrophysics and computational methods.  
+- 🧑‍💻 Experienced with **Python**, **Fortran**, and **MATLAB**, using them for simulations, data analysis, and numerical methods.  
+- 🌟 Enjoy merging analytic thinking with creative coding.
 
 ---
 
-## 🔭 Featured Project
+## 🔭 Featured Projects
+
+[**LUMOS**](https://github.com/gavinathaya/LUMOS)  
+A Python package designed to streamline photometric analysis, providing an end-to-end pipeline for astronomical data.
+
+[**KleoProj**](https://github.com/gavinathaya/KleoProj)  
+Simulation and analysis of periodic orbits around asteroid 216 Kleopatra, following methods from Abad et al. and orbital dynamics literature.
 
 [**GalaxyCNN**](https://github.com/gavinathaya/GalaxyCNN)  
-A neural network for classifying galaxy morphologies—uniting deep learning and astronomy to help map the cosmos.
+A deep learning project for galaxy morphology classification, bridging astronomy and AI.  
 
 ---
 
 ## 💡 Skills
 
-- **Programming:** Python, Fortran
-- **Scientific Computing:** Numerical methods, simulation, visualization
+- **Programming:** Python, Fortran, MATLAB
+- **Scientific Computing:** Numerical methods, data analysis, simulation, visualization
 
 ---
 
-## 🌱 What I’m Working On
+## 🌱 Currently Working On
 
-- Expanding **GalaxyCNN** to handle larger datasets and more complex galaxy types.
-- Building my foundation in computational astrophysics and exploring new ways to apply AI to space science.
+- Completing **LUMOS** to enable a full workflow from raw images to derived light curves.  
+- Expanding my computational skillset: learning advanced simulation techniques, efficient algorithms, and HPC.  
 
 ---
