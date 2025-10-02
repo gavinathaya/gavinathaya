@@ -41,4 +41,7 @@ A deep learning project for galaxy morphology classification, bridging astronomy
 - Completing **LUMOS** to enable a full workflow from raw images to derived light curves.  
 - Expanding my computational skillset: learning advanced simulation techniques, efficient algorithms, and HPC.  
 
+## 👨‍💻Find me!
+- [LinkedIn](https://www.linkedin.com/in/gavin-athaya-sabian/)
+
 ---
